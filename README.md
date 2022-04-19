@@ -1,6 +1,7 @@
 <!-- @format -->
 
-[![avnipiro.dev](/AvniPiro/avnipiro-header.png)](http://www.avnipiro.dev)
+[![avnipiro.dev](/avnipiro-header.png)](http://www.avnipiro.dev)
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avni</h1>
 <h3 align="center">🌐 Software Developer  ✈️ Internet Explorer</h3>
@@ -103,6 +104,8 @@
 <details>
   <summary>🧑‍🔬 This week I did</summary>
   
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=PiroAvni)
+ 
   [![Avni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AVNIPIRO&theme=github_dark&hide_border=true)](https://wakatime.com/@AVNIPIRO)
 </details>
 

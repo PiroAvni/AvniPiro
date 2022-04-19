@@ -1,6 +1,7 @@
 <!-- @format -->
 
 [![avnipiro.dev](/avnipiro-header.png)](http://www.avnipiro.dev)
+![Github stats](https://github-readme-stats.vercel.app/api?username=PiroAvni)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avni</h1>
 <h3 align="center">🌐 Software Developer  ✈️ Internet Explorer</h3>
